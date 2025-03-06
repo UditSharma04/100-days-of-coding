@@ -1,16 +1,14 @@
 # 100-days-of-coding
 
-A curated collection of **daily coding problems** from various competitive programming platforms like **LeetCode, CodeChef, CodeForces, AtCoder, GeeksforGeeks, and more**.  
+A curated collection of **daily coding problems** from various competitive programming platforms like **LeetCode, CodeChef, TUF+.  
 
 ## 📌 Purpose  
 This repository helps in **consistently solving problems daily** and tracking progress across different coding platforms.  
 
 ## 🏆 Platforms Covered  
-- [LeetCode](https://leetcode.com/problemset/all/)  
+- [LeetCode](https://leetcode.com/)  
 - [CodeChef](https://www.codechef.com/)  
-- [CodeForces](https://codeforces.com/)  
-- [AtCoder](https://atcoder.jp/)  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)  
+- [TUF+](https://takeuforward.org/plus)   
 - More to be added!  
 
 ## 📂 Repository Structure  
@@ -19,24 +17,22 @@ Each day’s problem will be added in the following structure:
 ```
 📁 100-days-of-coding
 ├── 📂 LeetCode
+│ ├── leetcode.md
 │ ├── Day-1 Two Sum.cpp
 │ ├── Day-2 Reverse Linked List.py
 │ ├── Day-3 LRU Cache.java
 │ ├── ...
 │
 ├── 📂 CodeChef
+│ ├── codechef.md
 │ ├── Day-1 Easy Sum.cpp
 │ ├── Day-2 Chef and Strings.py
 │ ├── ...
 │
-├── 📂 CodeForces
+├── 📂 TUF+
+│ ├── tuf.md
 │ ├── Day-1 Theatre Square.cpp
 │ ├── Day-2 Beautiful Matrix.java
-│ ├── ...
-│
-├── 📂 AtCoder
-│ ├── Day-1 Beginner Contest A.cpp
-│ ├── Day-2 Contest Problem B.py
 │ ├── ...
 ```
 
@@ -60,6 +56,9 @@ Example
 ```
 Day-10 Longest Substring Without Repeating Characters.cpp
 ```
+
+Update the corresponding .md file 
+
 ### ✅ Commit and Push
 ```bash
 git add .
