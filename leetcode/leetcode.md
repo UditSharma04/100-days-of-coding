@@ -6,3 +6,4 @@
 - Day-3-Find Missing and Repeated Values
 - Day-4-Closest Prime Numbers in Range
 - Day-5-Minimum Recolors to Get K Consecutive Black Blocks
+- Day-6-Alternating Groups II
