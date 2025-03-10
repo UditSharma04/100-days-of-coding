@@ -7,3 +7,4 @@
 - Day-4-Closest Prime Numbers in Range
 - Day-5-Minimum Recolors to Get K Consecutive Black Blocks
 - Day-6-Alternating Groups II
+- Day-7-Count of Substrings Containing Every Vowel and K Consonants II
