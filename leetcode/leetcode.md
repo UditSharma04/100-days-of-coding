@@ -14,3 +14,5 @@
 - Day-11-Number of Substrings Containing All Three Characters
 - Day-12-Maximum Count of Positive Integer and Negative Integer
 - Day-13-Apply Operations to an Array
+- Day-14-Apply Operations to an Array
+- Day-15-House Robber IV
