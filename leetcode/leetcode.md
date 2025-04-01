@@ -18,3 +18,4 @@
 - Day-15-House Robber IV
 - Day-16-Minimum Time to Repair Cars
 - Day-17-Divide Array Into Equal Pairs
+- Day-18-Solving Questions With Brainpower
