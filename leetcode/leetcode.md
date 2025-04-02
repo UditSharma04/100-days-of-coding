@@ -19,3 +19,4 @@
 - Day-16-Minimum Time to Repair Cars
 - Day-17-Divide Array Into Equal Pairs
 - Day-18-Solving Questions With Brainpower
+- Day-19-Maximum Value of an Ordered Triplet I
